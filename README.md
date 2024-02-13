@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/botskaking/Shizuka-">
+<a href="https://github.com/botskaking/Shizuka-MD">
     <img src="https://iili.io/J1eiev2.jpg">
   </a>
 <a href="https://git.io/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F40000&random=false&width=435&lines=SHIZUKA+MD;A+Multi+Device+Whatsapp+Bot;This+Bot+Is+Modified+Version;Of+Atlas+MD" alt="Typing SVG" /></a>
@@ -12,23 +12,23 @@ Konnichiwa Senpai, I am "Shizuka" an Opensource WhatsApp bot modified by <a href
 <br>
 
 <p align="center">
-  <a href="https://github.com/botskaking/Shizuka-/fork">
+  <a href="https://github.com/botskaking/Shizuka-MD/fork">
     <img src="https://img.shields.io/github/forks/botskaking/Shizuka-?label=Fork&style=social">
     
     
-  <a href="https://github.com/botskaking/Shizuka-/stargazers">
-    <img src="https://img.shields.io/github/stars/botskaking/Shizuka-?style=social">
+  <a href="https://github.com/botskaking/Shizuka-MD/stargazers">
+    <img src="https://img.shields.io/github/stars/botskaking/Shizuka-MD?style=social">
   </a>
 <p align="center">
-<a href="https://github.com/botskaking/Shizuka-"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbotskaking%Shizuka-&count_bg=%23FFA305&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=People+Visited&edge_flat=false)](https://hits.seeyoufarm.com" width="150px" /></a>
+<a href="https://github.com/botskaking/Shizuka-MD"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbotskaking%Shizuka-&count_bg=%23FFA305&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=People+Visited&edge_flat=false)](https://hits.seeyoufarm.com" width="150px" /></a>
 </p>
 
 
   
 <p align="center">
-<a href="https://github.com/FantoX"><img title="Owner" src="https://img.shields.io/badge/Owner-Team Atlas-white.svg?style=for-the-badge&logo=github" width="170px"></a>
+<a href="https://github.com/botskaking"><img title="Owner" src="https://img.shields.io/badge/Shizuka-MD-Creator-white.svg?style=for-the-badge&logo=github" width="170px"></a>
 
- <a href="https://github.com/FantoX/Atlas-MD/blob/main/LICENSE.md">
+ <a href="https://github.com/botskaking/Shizuka-MD/blob/main/LICENSE.md">
   
 <img src='https://img.shields.io/github/license/FantoX/Atlas-MD?color=%231e81b0&style=for-the-badge' width="114px">
 
@@ -52,7 +52,7 @@ Konnichiwa Senpai, I am "Shizuka" an Opensource WhatsApp bot modified by <a href
 </h4>
 
 <p align="center" >
-    <a href="https://repl.it/github/botskaking/Shizuka-">
+    <a href="https://repl.it/github/botskaking/Shizuka-MD">
     <img src="https://i.ibb.co/zrB5kMh/deploy-on-repl.jpg" width="170px" alt="Deploy on Heroku" >
     </a>
     <br>     
@@ -92,7 +92,7 @@ Konnichiwa Senpai, I am "Shizuka" an Opensource WhatsApp bot modified by <a href
 </h4>
       
 <p align="center">
-    <a href="https://app.koyeb.com/apps/deploy?type=docker&image=quay.io/botskaking/Shizuka-:main&env[PORT]=8000&env[PREFIX]=-&&env[MONGODB]=mongodb+srv://fantox001:zjmbvgwr52@cluster0.qh05pl9.mongodb.net/?retryWrites=true&w=majority&&env[SESSION_ID]=enterYourSession&&env[MODS]=918279975767&&env[TENOR_API_KEY]=AIzaSyCyouca1_KKy4W_MG1xsPzuku5oa8W358c&&env[PACKNAME]=Shizuka&&env[AUTHOR]=Ironman&&name=Shizuka">
+    <a href="https://app.koyeb.com/apps/deploy?type=docker&image=quay.io/botskaking/Shizuka-MD:main&env[PORT]=8000&env[PREFIX]=-&&env[MONGODB]=mongodb+srv://fantox001:zjmbvgwr52@cluster0.qh05pl9.mongodb.net/?retryWrites=true&w=majority&&env[SESSION_ID]=enterYourSession&&env[MODS]=918279975767&&env[TENOR_API_KEY]=AIzaSyCyouca1_KKy4W_MG1xsPzuku5oa8W358c&&env[PACKNAME]=Shizuka&&env[AUTHOR]=Ironman&&name=Shizuka">
     <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy on Koyeb" width="155px">
     </a>
    <br>     
@@ -116,7 +116,7 @@ Konnichiwa Senpai, I am "Shizuka" an Opensource WhatsApp bot modified by <a href
 </p>
 
 <p align="center" >
-    <a href="https://heroku.com/deploy?template=https://github.com/botskaking/Shizuka-">
+    <a href="https://heroku.com/deploy?template=https://github.com/botskaking/Shizuka-MD">
     <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="Deploy on Heroku" >
     </a>
 
@@ -201,7 +201,7 @@ Konnichiwa Senpai, I am "Shizuka" an Opensource WhatsApp bot modified by <a href
     
 ## 🔶 Repl.it Deploy:
       
-- [Fork Main Repo](https://github.com/botskaking/Shizuka-/fork)
+- [Fork Main Repo](https://github.com/botskaking/Shizuka-MD/fork)
 - Create a MongoDB URL. Need help? Watch this short 1 minute [Video Guide](https://youtube.com/shorts/pIHvoXkwmq4?feature=share) for MongoDB URL.
 - Click on `Deploy to Repl.it` button ( `For those who didn't modified bot.`). In other case (`For those who modified bot.`) edit README.md file and chage the repo link of Repl.it deply button from `https://github.com/botskaking/Shizuka-` to your fork URL `https://github.com/<Your GitHub Username>/<Your Shizuka fork repo name>`.
 - After cloning is done in Repl.it go to `Secrets` in your Repl.it project and put these values (Mandatory).
