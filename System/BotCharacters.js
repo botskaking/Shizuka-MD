@@ -1,78 +1,12 @@
-/* ---------------------------------------------------------------------------------/
-/                                                                                   /
-/             d8888 888    888                        888b     d888 8888888b.       /
-/            d88888 888    888                        8888b   d8888 888  "Y88b      /
-/           d88P888 888    888                        88888b.d88888 888    888      /
-/          d88P 888 888888 888  8888b.  .d8888b       888Y88888P888 888    888      /
-/         d88P  888 888    888     "88b 88K           888 Y888P 888 888    888      /
-/        d88P   888 888    888 .d888888 "Y8888b.      888  Y8P  888 888    888      /
-/       d8888888888 Y88b.  888 888  888      X88      888   "   888 888  .d88P      /
-/      d88P     888  "Y888 888 "Y888888  88888P'      888       888 8888888P"       /
-/                                                                                   / 
-/-----------------------------------------------------------------------------------/
-/ Author and Main Developer: FantoX                                                 /
-/ Github: https://github.com/FantoX001/Atlas-MD                                     /
-/ Powered By: Team ATLAS                                                            /
-/-----------------------------------------------------------------------------------/
-/             Meet Team ATLAS who holds all rights to this repository:              /
-/                                                                                   /
-/ 1. Pratyush - https://github.com/pratyush4932                                     /
-/ 2. Ahmii - https://github.com/Ahmii-kun                                           /               
-/ 3. Kai - https://github.com/Kai0071                                               /                    
-/ 4. Devime - https://github.com/Devime69                                           /
-/ 5. Jay JayOps - https://github.com/jayjay-ops                                     /
-/                                                                                   /
-/ ----------------------------------------------------------------------------------/
-/                                                                                   /
-/      With all of our hard work and defication you can enjoy this awesome bot!     /  
-/                                                                                   / 
-/----------------------------------------------------------------------------------*/
-
-
-
-/* ---Added Anime Character list---  /
- 0 --- Atlas MD
- 1 --- Power
- 2 --- Makima
- 3 --- Denji
- 4 --- Zero Two
- 5 --- Chika
- 6 --- Miku
- 7 --- Marin Kitagawa
- 8 --- Ayanokoji
- 9 --- Ruka
-10 --- Mizuhara
-11 --- Rem
-12 --- Sumi
-13 --- Kaguya
-14 --- Yumeko
-15 --- Kurumi
-16 --- Mai
-17 --- Yor
-18 --- Shinbou
-19 --- Eiko
-
-Image Source: https://wall.alphacoders.com/
-Image Source: https://wallpapercave.com/
-Video Host: https://graph.org/
-
-** Note: 
-Do not change or remove present charID. You can add more characters by adding more charID sequentially.
-Add character name, video link, and image links.
-Don't forget to change "charlist.js" and "setchar.js" inside "Plugins\moderator.js"  file.
-*/
-
-
-
-global.charID0 = {
-    botName : "Atlas",
-    botVideo : "https://graph.org/file/e3b2ee218b98b8679bf98.mp4",
-    botImage1 : "https://i.imgur.com/MClOeqe.jpeg",
-    botImage2 : "https://i.imgur.com/MClOeqe.jpeg",
-    botImage3 : "https://i.imgur.com/MClOeqe.jpeg",
-    botImage4 : "https://i.imgur.com/MClOeqe.jpeg",
-    botImage5 : "https://i.imgur.com/MClOeqe.jpeg",
-    botImage6 : "https://i.imgur.com/MClOeqe.jpeg",
+global.charID19 = {
+  botName : "Shizuka MD",
+  botVideo : "https://raw.githubusercontent.com/salmanytofficial/XLICON-MD/main/lib/assets/help.mp4",
+  botImage1 : "https://iili.io/J1eiev2.jpg",
+  botImage2 : "https://iili.io/J1eiev2.jpg",
+  botImage3 : "https://iili.io/J1eiev2.jpg",
+  botImage4 : "https://iili.io/J1eiev2.jpg",
+  botImage5 : "https://iili.io/J1eiev2.jpg",
+  botImage6 : "https://iili.io/J1eiev2.jpg",
 }
 
 global.charID1 = {
@@ -275,17 +209,53 @@ global.charID18 = {
   botImage2 : "https://wallpapercave.com/uwp/uwp2138883.webp",
   botImage3 : "https://wallpapercave.com/wp/wp4650483.jpg",
   botImage4 : "https://wallpapercave.com/wp/wp10513585.jpg",
+  botImage5 : "https://wallpapercave.com/wp/wp9650524.jpg",}
+global.charID16 = {
+  botName : "Mai",
+  botVideo : "https://graph.org/file/c71c3076de5e792cc209c.mp4",
+  botImage1 : "https://images4.alphacoders.com/972/972790.jpg",
+  botImage2 : "https://images6.alphacoders.com/129/1292073.png",
+  botImage3 : "https://images3.alphacoders.com/994/994295.png",
+  botImage4 : "https://images4.alphacoders.com/971/971659.jpg",
+  botImage5 : "https://images.alphacoders.com/102/1027053.jpg",
+  botImage6 : "https://images5.alphacoders.com/105/1057377.jpg",
+}
+
+
+
+
+global.charID17 = {
+  botName : "Yor",
+  botVideo : "https://graph.org/file/8817be3a15ed5c02debf7.mp4",
+  botImage1 : "https://images7.alphacoders.com/123/1236729.jpg",
+  botImage2 : "https://images7.alphacoders.com/122/1229718.jpg",
+  botImage3 : "https://images.alphacoders.com/123/1238264.jpg",
+  botImage4 : "https://images4.alphacoders.com/123/1233274.jpg",
+  botImage5 : "https://images.alphacoders.com/124/1241835.png",
+  botImage6 : "https://images4.alphacoders.com/123/1235462.jpg",
+}
+
+
+
+
+global.charID18 = {
+  botName : "Shinbou",
+  botVideo : "https://graph.org/file/1bacc57547657bc93aa66.mp4",
+  botImage1 : "https://wallpapercave.com/wp/wp4650481.jpg",
+  botImage2 : "https://wallpapercave.com/uwp/uwp2138883.webp",
+  botImage3 : "https://wallpapercave.com/wp/wp4650483.jpg",
+  botImage4 : "https://wallpapercave.com/wp/wp10513585.jpg",
   botImage5 : "https://wallpapercave.com/wp/wp9650524.jpg",
   botImage6 : "https://wallpapercave.com/wp/wp10513578.jpg",
 }
 
+
 global.charID19 = {
-  botName : "Eiko",
-  botVideo : "https://graph.org/file/7f99357fec0f000c7ab0a.mp4",
-  botImage1 : "https://images8.alphacoders.com/122/1229829.jpg",
-  botImage2 : "https://images2.alphacoders.com/123/1234944.png",
-  botImage3 : "https://images5.alphacoders.com/123/1235274.jpg",
-  botImage4 : "https://images6.alphacoders.com/126/1260043.png",
-  botImage5 : "https://images6.alphacoders.com/124/1247977.jpg",
-  botImage6 : "https://images2.alphacoders.com/125/1251795.jpg",
-}
+    botName : "Atlas",
+    botVideo : "https://graph.org/file/e3b2ee218b98b8679bf98.mp4",
+    botImage1 : "https://i.imgur.com/MClOeqe.jpeg",
+    botImage2 : "https://i.imgur.com/MClOeqe.jpeg",
+    botImage3 : "https://i.imgur.com/MClOeqe.jpeg",
+    botImage4 : "https://i.imgur.com/MClOeqe.jpeg",
+    botImage5 : "https://i.imgur.com/MClOeqe.jpeg",
+    botImage6 : "https://i.imgur.com/MClOeqe.jpeg", }.
