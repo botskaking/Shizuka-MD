@@ -1,29 +1,26 @@
 <p align="center">
-<a href="https://github.com/FantoX/Atlas-MD">
-    <img src="https://i.imgur.com/MClOeqe.jpeg">
+<a href="https://github.com/botskaking/Shizuka-">
+    <img src="https://iili.io/J1eiev2.jpg">
   </a>
-
-<h1 align="center"> Atlas MD
-</h1>
-
+<a href="https://git.io/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F40000&random=false&width=435&lines=SHIZUKA+MD;A+Multi+Device+Whatsapp+Bot;This+Bot+Is+Modified+Version;Of+Atlas+MD" alt="Typing SVG" /></a>
 <p align="center"> 
-Konnichiwa Senpai, I am "Atlas" an Opensource WhatsApp bot made by <a href="https://github.com/FantoX">FantoX</a> and his team "Atlas" to do everything that's beyond imagination with highest <b>Features</b> and <b>Stability</b> and <b>Compatibility</b> built with Baileys Multi Device support.
+Konnichiwa Senpai, I am "Shizuka" an Opensource WhatsApp bot modified by <a href="https://github.com/botskaking">botskaking</a> and his team "IronBotz" to do everything that's beyond imagination with highest <b>Features</b> and <b>Stability</b> and <b>Compatibility</b> built with Baileys Multi Device support.
 
-<h3 align="center"> Atlas MD - The Future Is Here
+<h3 align="center"> SHIZUKA MD - The Future Is Here
 </h4>
 
 <br>
 
 <p align="center">
-  <a href="https://github.com/FantoX/Atlas-MD/fork">
-    <img src="https://img.shields.io/github/forks/FantoX/Atlas-MD?label=Fork&style=social">
+  <a href="https://github.com/botskaking/Shizuka-/fork">
+    <img src="https://img.shields.io/github/forks/botskaking/Shizuka-?label=Fork&style=social">
     
     
-  <a href="https://github.com/FantoX/Atlas-MD/stargazers">
-    <img src="https://img.shields.io/github/stars/FantoX/Atlas-MD?style=social">
+  <a href="https://github.com/botskaking/Shizuka-/stargazers">
+    <img src="https://img.shields.io/github/stars/botskaking/Shizuka-?style=social">
   </a>
 <p align="center">
-<a href="https://github.com/FantoX/Atlas-MD"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFantoX%2FAtlas-MD&count_bg=%23FFA305&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=People+Visited&edge_flat=false)](https://hits.seeyoufarm.com" width="150px" /></a>
+<a href="https://github.com/botskaking/Shizuka-"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbotskaking%Shizuka-&count_bg=%23FFA305&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=People+Visited&edge_flat=false)](https://hits.seeyoufarm.com" width="150px" /></a>
 </p>
 
 
@@ -36,7 +33,7 @@ Konnichiwa Senpai, I am "Atlas" an Opensource WhatsApp bot made by <a href="http
 <img src='https://img.shields.io/github/license/FantoX/Atlas-MD?color=%231e81b0&style=for-the-badge' width="114px">
 
 <p align="center">
-<a href="https://github.com/FantoX"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-YES-green.svg?style=for-the-badge" width="150px"></a>
+<a href="https://github.com/botskaking"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-YES-green.svg?style=for-the-badge" width="150px"></a>
 <a href="https://github.com/FantoX"><img title="" src="https://img.shields.io/badge/Maintained-YES-green.svg?style=for-the-badge" width="143px"></a>
 </p>
 <br>
@@ -55,7 +52,7 @@ Konnichiwa Senpai, I am "Atlas" an Opensource WhatsApp bot made by <a href="http
 </h4>
 
 <p align="center" >
-    <a href="https://repl.it/github/FantoX/Atlas-MD">
+    <a href="https://repl.it/github/botskaking/Shizuka-">
     <img src="https://i.ibb.co/zrB5kMh/deploy-on-repl.jpg" width="170px" alt="Deploy on Heroku" >
     </a>
     <br>     
@@ -95,7 +92,7 @@ Konnichiwa Senpai, I am "Atlas" an Opensource WhatsApp bot made by <a href="http
 </h4>
       
 <p align="center">
-    <a href="https://app.koyeb.com/apps/deploy?type=docker&image=quay.io/FantoX/Atlas-MD:main&env[PORT]=8000&env[PREFIX]=-&&env[MONGODB]=mongodb+srv://fantox001:zjmbvgwr52@cluster0.qh05pl9.mongodb.net/?retryWrites=true&w=majority&&env[SESSION_ID]=enterYourSession&&env[MODS]=918101187835,919735940276&&env[TENOR_API_KEY]=AIzaSyCyouca1_KKy4W_MG1xsPzuku5oa8W358c&&env[PACKNAME]=Miku-Nakano&&env[AUTHOR]=FantoX&&name=atlas">
+    <a href="https://app.koyeb.com/apps/deploy?type=docker&image=quay.io/botskaking/Shizuka-:main&env[PORT]=8000&env[PREFIX]=-&&env[MONGODB]=mongodb+srv://fantox001:zjmbvgwr52@cluster0.qh05pl9.mongodb.net/?retryWrites=true&w=majority&&env[SESSION_ID]=enterYourSession&&env[MODS]=918279975767&&env[TENOR_API_KEY]=AIzaSyCyouca1_KKy4W_MG1xsPzuku5oa8W358c&&env[PACKNAME]=Shizuka&&env[AUTHOR]=Ironman&&name=Shizuka">
     <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy on Koyeb" width="155px">
     </a>
    <br>     
@@ -119,7 +116,7 @@ Konnichiwa Senpai, I am "Atlas" an Opensource WhatsApp bot made by <a href="http
 </p>
 
 <p align="center" >
-    <a href="https://heroku.com/deploy?template=https://github.com/FantoX/Atlas-MD">
+    <a href="https://heroku.com/deploy?template=https://github.com/botskaking/Shizuka-">
     <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="Deploy on Heroku" >
     </a>
 
@@ -197,23 +194,23 @@ Konnichiwa Senpai, I am "Atlas" an Opensource WhatsApp bot made by <a href="http
 
     
     
-# 📑 Atlas Deploy and Hosting guide
+# 📑 Shizuka Deploy and Hosting guide
 
 <details close>
 <summary>Click to read Deploy Manual</summary>    
     
 ## 🔶 Repl.it Deploy:
       
-- [Fork Main Repo](https://github.com/FantoX/Atlas-MD/fork)
+- [Fork Main Repo](https://github.com/botskaking/Shizuka-/fork)
 - Create a MongoDB URL. Need help? Watch this short 1 minute [Video Guide](https://youtube.com/shorts/pIHvoXkwmq4?feature=share) for MongoDB URL.
-- Click on `Deploy to Repl.it` button ( `For those who didn't modified bot.`). In other case (`For those who modified bot.`) edit README.md file and chage the repo link of Repl.it deply button from `https://github.com/Fantox01/Atlas-MD` to your fork URL `https://github.com/<Your GitHub Username>/<Your Atlas fork repo name>`.
+- Click on `Deploy to Repl.it` button ( `For those who didn't modified bot.`). In other case (`For those who modified bot.`) edit README.md file and chage the repo link of Repl.it deply button from `https://github.com/botskaking/Shizuka-` to your fork URL `https://github.com/<Your GitHub Username>/<Your Shizuka fork repo name>`.
 - After cloning is done in Repl.it go to `Secrets` in your Repl.it project and put these values (Mandatory).
   
 <br>
       
 KEY | VALUE
 -- | --
-MODS | Phone numbers in this format (`918101187876`,`925897863489`) without `+` or `SPACE`.
+MODS | Phone numbers in this format (`918279975767`,`918250895584`) without `+` or `SPACE`.
 MONGODB | Your MongoDB URL
 SESSION_ID | Any random value (`EX: gwfdrte5678`) and `keep it copied`.
 PREFIX | Any single special character except `@` (`Ex: . or / or * or , etc.`)
@@ -235,16 +232,16 @@ TENOR_API_KEY | Your tenor API key if you have. Or use this public one: `AIzaSyC
       
 ## ⚛️ Heroku Deploy:
       
-- [Fork Main Repo](https://github.com/FantoX/Atlas-MD/fork)
+- [Fork Main Repo](https://github.com/FantoX/botskaking/Shizuka-)
 - Create a MongoDB URL. Need help? Watch this short 1 minute [Video Guide](https://youtube.com/shorts/pIHvoXkwmq4?feature=share) for MongoDB URL.
-- Click on `Deploy to Heroku` button ( `For those who didn't modified bot.`). In other case (`For those who modified bot.`) edit README.md file and chage the repo link of Repl.it deply button from `https://github.com/Fantox01/Atlas-MD` to your fork URL `https://github.com/<Your GitHub Username>/<Your Atlas fork repo name>` also got to `app.json` and change `Website` ans `Repository` link from my link to your link. Then click on `Deploy to Heroku` button.
+- Click on `Deploy to Heroku` button ( `For those who didn't modified bot.`). In other case (`For those who modified bot.`) edit README.md file and chage the repo link of Repl.it deply button from `https://github.com/botskaking/Shizuka-` to your fork URL `https://github.com/<Your GitHub Username>/<Your shizuka fork repo name>` also got to `app.json` and change `Website` ans `Repository` link from my link to your link. Then click on `Deploy to Heroku` button.
 - Then put these values in environment variables accordint to instructions (Mandatory).
   
 <br>
       
 KEY | VALUE
 -- | --
-MODS | Phone numbers in this format (`918101187876`,`925897863489`) without `+` or `SPACE`.
+MODS | Phone numbers in this format (`918250895584`,`918279975767`) without `+` or `SPACE`.
 MONGODB | Your MongoDB URL
 SESSION_ID | Any random value (`EX: gwfdrte5678`) and `keep it copied`.
 PREFIX | Any single special character except `@` (`Ex: . or / or * or , etc.`)
@@ -399,7 +396,7 @@ npm start
 #### 📌 To stop a bot in Userland
 - Tap on `CTRL` button then tap on `C` from keyboard
 
-#### 📌 To start bot again ( While you are inside Atlas-MD folder {use `cd Atlas-MD` to get inside the folder} )
+#### 📌 To start bot again ( While you are inside Shizuka- folder {use `cd Shizuka-` to get inside the folder} )
 - `npm start` or use `yarn start` to start bot again.
 
 
@@ -413,7 +410,7 @@ npm start
 - Then open `UserLand` and run these commands one-by-one:
 
 ```
-cd Atlas-MD
+cd Shizuka-
 git fetch origin
 git merge origin/main
 npm start
@@ -433,7 +430,7 @@ npm start
 <summary>Open Plug-in Store</summary>
 
 ## 🪟 Economy plug-in
-**〽️ Description:** This plugin conatains all Cashino and Gambling commands. <br><br>
+**〽️ Description:** This plugin conatains all Cashino and Gambling commands. Not Workinh <br><br>
 **🧲️ Plug-in installation url:** 
 ```
 https://gist.githubusercontent.com/FantoX/63bcf78d6da0bce7d9f18343e3143fbc/raw/224c92477109f7082f698890fe510874da597d5c/economy.js
@@ -442,7 +439,7 @@ https://gist.githubusercontent.com/FantoX/63bcf78d6da0bce7d9f18343e3143fbc/raw/2
 <br><br>
 
 ## 🪟 RPG plug-in
-**〽️ Description:** This plugin conatains all RPG game commands. <br><br>
+**〽️ Description:** This plugin conatains all RPG game commands. working <br><br>
 **🧲️ Plug-in installation url:** 
 ```
 https://gist.githubusercontent.com/FantoX/151e440d351549c896042155c223c59c/raw/2fbced16ebd14300f917248801c707d9733118ad/rpg.js
@@ -451,7 +448,7 @@ https://gist.githubusercontent.com/FantoX/151e440d351549c896042155c223c59c/raw/2
 <br><br>
     
 ## 🪟 Code-Runner plug-in
-**〽️ Description:** This plugin conatains commands made for Coders <br><br>
+**〽️ Description:** This plugin conatains commands made for Coders not tested <br><br>
 **🧲️ Plug-in installation url:** 
 ```
 https://gist.githubusercontent.com/FantoX/8c2b76e4ed2d96eb370379a56f0cf330/raw/d3322fab57c52afd83cf83fc3f5afa493dc4e88f/code-Runner.js
@@ -460,7 +457,7 @@ https://gist.githubusercontent.com/FantoX/8c2b76e4ed2d96eb370379a56f0cf330/raw/d
 <br><br>
 
 ## 🪟 Audio Edit plug-in
-**〽️ Description:** This plugin conatains 8 audio modification commands using "**ffmpeg**" <br><br>
+**〽️ Description:** This plugin conatains 8 audio modification commands using "**ffmpeg** Not Tested" <br><br>
 **🧲️ Plug-in installation url:** 
 ```
 https://gist.githubusercontent.com/FantoX/4e097be1a35b9c00bf0bc9f6635e335b/raw/cc57a7780dd80612b62ded960af3d70d19662956/audio-edit.js
@@ -469,7 +466,7 @@ https://gist.githubusercontent.com/FantoX/4e097be1a35b9c00bf0bc9f6635e335b/raw/c
 <br><br>
 
 ## 🪟 Image Edit plug-in
-**〽️ Description:** This plugin conatains 4 image manipulation commands.<br><br>
+**〽️ Description:** This plugin conatains 4 image manipulation commands.Not tested <br><br>
 **🧲️ Plug-in installation url:** 
 ```
 https://gist.githubusercontent.com/FantoX/9f6cb696d645a49a98abba00c570cfe9/raw/23154ec10c2ee08558a8aca44389f0a983aa4dea/image-Edit.js
@@ -478,7 +475,7 @@ https://gist.githubusercontent.com/FantoX/9f6cb696d645a49a98abba00c570cfe9/raw/2
 <br><br>
     
 ## 🪟 Text to Speech plug-in
-**〽️ Description:** This plugin conatains text-to-speech functionality with 7 languages using "**google text to speech engine**" <br><br>
+**〽️ Description:** This plugin conatains text-to-speech functionality with 7 languages using "**google text to speech engine**" Working<br><br>
 **🧲️ Plug-in installation url:** 
 ```
 https://gist.githubusercontent.com/FantoX/998a3b2937080af7c30a2639544fa24c/raw/afc9ba94cbaea95e971e3aea3f80e492249c75d7/text-to-speech.js
@@ -487,7 +484,7 @@ https://gist.githubusercontent.com/FantoX/998a3b2937080af7c30a2639544fa24c/raw/a
 <br><br>
     
 ## 🪟 Logo Maker plug-in
-**〽️ Description:** This plugin conatains 40 logo maker commands. <br><br>
+**〽️ Description:** This plugin conatains 40 logo maker commands. Not Tested<br><br>
 **🧲️ Plug-in installation url:** 
 ```
 https://gist.githubusercontent.com/FantoX/67035f308b809aaabad8faa001fe473d/raw/72c2b3c100471375755817119c7ab391985bd7f3/logo-maker.js
@@ -496,7 +493,7 @@ https://gist.githubusercontent.com/FantoX/67035f308b809aaabad8faa001fe473d/raw/7
 <br><br>
     
 ## 🪟 Chat GPT plug-in
-**〽️ Description:** This plugin conatains 2 main Open AI tools which are "**ChatGPT**" and "**Dall-E**" <br><br>
+**〽️ Description:** This plugin conatains 2 main Open AI tools which are "**ChatGPT**" and "**Dall-E**" Not Tested<br><br>
 **🧲️ Plug-in installation url:** 
 ```
 https://gist.githubusercontent.com/FantoX/04507d2d7411996622513759ea05775d/raw/7d27fc2bb2f6d8a45d3e929e3904c66895d811ad/chat-GPT.js
@@ -505,7 +502,7 @@ https://gist.githubusercontent.com/FantoX/04507d2d7411996622513759ea05775d/raw/7
 <br><br>
     
 ## 🪟 Fun Commands plug-in
-**〽️ Description:** This plugin conatains 17 funny commands. <br><br>
+**〽️ Description:** This plugin conatains 17 funny commands. Working<br><br>
 **🧲️ Plug-in installation url:** 
 ```
 https://gist.githubusercontent.com/FantoX/e02ed98798e5cc73a0778d8bc04f0f03/raw/77293b2b35d875ce0c91357d879fe5d0881423b9/fun.js
@@ -514,7 +511,7 @@ https://gist.githubusercontent.com/FantoX/e02ed98798e5cc73a0778d8bc04f0f03/raw/7
 <br><br>
     
 ## 🪟 Tiktok Downloader plug-in
-**〽️ Description:** This plugin conatains 4 tiktok video downloader commands. <br><br>
+**〽️ Description:** This plugin conatains 4 tiktok video downloader commands. Working<br><br>
 **🧲️ Plug-in installation url:** 
 ```
 https://gist.githubusercontent.com/FantoX/2de67bc72021805417cbd317385ea71a/raw/f70879fc861dadd440f4a4a7dbb01cdae44b3c56/tiktokdl.js
@@ -523,7 +520,7 @@ https://gist.githubusercontent.com/FantoX/2de67bc72021805417cbd317385ea71a/raw/f
 <br><br>
     
 ## 🪟 Anime NSFW Image plug-in
-**〽️ Description:** This plugin conatains 100 anime NSFW image commands using my own API<br><br>
+**〽️ Description:** This plugin conatains 100 anime NSFW image commands using my own API.<br><br>
 **🧲️ Plug-in will be back soon...** 
 
 <br><br>
@@ -547,7 +544,7 @@ https://gist.githubusercontent.com/FantoX/2de67bc72021805417cbd317385ea71a/raw/f
 <br>
     
 
-# ⚡️ Atlas Platform Compatibility:
+# ⚡️ Shizuka Platform Compatibility:
 <br>
 
 - Atlas offers highest platform compatibility.
@@ -575,8 +572,8 @@ https://gist.githubusercontent.com/FantoX/2de67bc72021805417cbd317385ea71a/raw/f
       
 <br>
 
-- Read [PublicKeys.md](https://github.com/FantoX/Atlas-MD/blob/main/PublicKeys.md) to use our `provided public keys` if you are lazy to create your own. We have already provided everying you need to run the bot.
-- Changeable between `20 added Characters` ( Atlas, Power, Makima, Denji, Zero Two, Chika, Miku, Marin Kitagawa ) and more can be added by user inside `BotCharacters.js` file. Type `-charlist` command to get character list.
+- Read [PublicKeys.md](https://github.com/botskakinh/Shizuka-/blob/main/PublicKeys.md) to use our `provided public keys` if you are lazy to create your own. We have already provided everying you need to run the bot.
+- Changeable between `20 added Characters` ( Shizuka, Atlas, Power, Makima, Denji, Zero Two, Chika, Miku, Marin Kitagawa ) and more can be added by user inside `BotCharacters.js` file. Type `-charlist` command to get character list.
 - Fully powered by MongoDb ( 3 databases added ).
 - Self / Public / Private mode.
 - Single prefix ( "-" ).
@@ -592,7 +589,7 @@ https://gist.githubusercontent.com/FantoX/2de67bc72021805417cbd317385ea71a/raw/f
 <br>
      
 
-# 〽️ Why Should You Use Atlas as your Base:
+# 〽️ Why Should You Use Shizuka as your Base:
 
       
 <details close>
@@ -600,18 +597,18 @@ https://gist.githubusercontent.com/FantoX/2de67bc72021805417cbd317385ea71a/raw/f
 
 <br>
 
-- Atlas is a `fully open source` bot which means `no copyright`.
-- Atlas is a `multi character bot` which means you can `change bot's character` to any of the 8 added characters or add more characters by yourself.
-- Atlas is a `multi database bot` which means you can use 3 different databases at the same time.
-- Atlas is a `multi mode` bot which means you can use it in `Self / Public / Private` mode.
-- Atlas has a pre installed chatbot which means you can use it as a `group chatbot and dm chatbot`.
-- Atlas has `Highest NSFW (100+)` which means you can use it as a `nsfw bot`.
-- Atlas has 300+ commands.
-- Atlas doesn't store your `Session File` locally which means it's `safe` and `secure`.
-- Atlas has `RPG and Economy` which means you can use it as a `RPG Bot` or `Casino Bot`.
-- Atlas has `User Banning / Group Banning` which means you can use it as a `Anti Spam Bot`.
-- Atlas is a Folder Type bot which represents `Highest Stability`, `Highest Performance` and `Developer / User friendly`.
-- Atlas comes with [MIT](https://github.com/FantoX/Atlas-MD/blob/main/LICENSE.md) License which means you can use it as a `base for your own bot` and can `modify it as you want` and can `add your own features`.
+- Shizuka is a `fully open source` bot which means `no copyright`.
+- Shizuka is a `multi character bot` which means you can `change bot's character` to any of the 8 added characters or add more characters by yourself.
+- Shizuka is a `multi database bot` which means you can use 3 different databases at the same time.
+- Shizuka is a `multi mode` bot which means you can use it in `Self / Public / Private` mode.
+- Shizuka has a pre installed chatbot which means you can use it as a `group chatbot and dm chatbot`.
+- Shizuka has `Highest NSFW (100+)` which means you can use it as a `nsfw bot`.
+- Shizuka has 300+ commands.
+- Shizuka doesn't store your `Session File` locally which means it's `safe` and `secure`.
+- Shizuka has `RPG and Economy` which means you can use it as a `RPG Bot` or `Casino Bot`.
+- Shizuka has `User Banning / Group Banning` which means you can use it as a `Anti Spam Bot`.
+- Shizuka is a Folder Type bot which represents `Highest Stability`, `Highest Performance` and `Developer / User friendly`.
+- Shizuka comes with [MIT](https://github.com/botskaking/Shizuka-/blob/main/LICENSE.md) License which means you can use it as a `base for your own bot` and can `modify it as you want` and can `add your own features`.
 
 </details> 
     
@@ -654,4 +651,11 @@ https://gist.githubusercontent.com/FantoX/2de67bc72021805417cbd317385ea71a/raw/f
 [![Fantox](https://github.com/FantoX.png)](https://github.com/FantoX)  | [![Ahmii-kun](https://github.com/Ahmii-kun.png)](https://github.com/Ahmii-kun) | [![Pratyush](https://github.com/pratyush4932.png)](https://github.com/pratyush4932) | [![Devime](https://github.com/Devime69.png)](https://github.com/Devime69) | [![Kai](https://github.com/Kai0071.png)](https://github.com/Kai0071) | [![JayJay Ops](https://github.com/jayjay-ops.png)](https://github.com/jayjay-ops)
 ----|----|----|----|----|----
 [FantoX](https://github.com/FantoX)  | [Ahmii Kun](https://github.com/Ahmii-kun) | [Pratyush](https://github.com/pratyush4932) | [Devime](https://github.com/Devime69) | [Kai](https://github.com/Kai0071) | [Jayjay Ops](https://github.com/jayjay-ops)
-Owner, Main Developer, Maintainer, Dubugger  | Co-Developer, Co-Maintainer | Support Developer | API Maintainer | Ideas, Testing | Ideas, Testing
+Owner, Main Developer, Maintainer, Dubugger  | Co-Developer, Co-Maintainer | Support Developer | 
+
+API Maintainer | Ideas, Testing | Ideas, Testing
+
+<h2 align='center'>Meet Ironman</h2>
+<a href="https://github.com/botskaking/">
+    <img src="https://github.com/botskaking.png">
+  </a>
